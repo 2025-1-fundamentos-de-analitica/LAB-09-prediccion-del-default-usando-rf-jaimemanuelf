@@ -21,7 +21,7 @@
 #   BILL_AMT4: Historia de pagos pasados. Monto a pagar en junio, 2005.
 #   BILL_AMT5: Historia de pagos pasados. Monto a pagar en mayo, 2005.
 #   BILL_AMT6: Historia de pagos pasados. Monto a pagar en abril, 2005.
-#    PAY_AMT1: Historia de pagos pasados. Monto pagado en septiembre, 2005.
+#    PAY_AMT1: Historia de pagos pasados. Monto pagado en septiembre, 2005..
 #    PAY_AMT2: Historia de pagos pasados. Monto pagado en agosto, 2005.
 #    PAY_AMT3: Historia de pagos pasados. Monto pagado en julio, 2005.
 #    PAY_AMT4: Historia de pagos pasados. Monto pagado en junio, 2005.
