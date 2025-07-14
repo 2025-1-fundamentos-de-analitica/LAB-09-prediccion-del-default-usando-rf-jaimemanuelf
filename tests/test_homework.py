@@ -129,5 +129,4 @@ def _test_metrics(metrics):
 def test_homework():
     """Tests"""
 
-    model = _load_model()
     
